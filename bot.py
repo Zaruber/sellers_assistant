@@ -104,6 +104,6 @@ class SalesBot:
 
 
 if __name__ == "__main__":
-    BOT_TOKEN = '6872432196:AAHroeyJEZ2qnzZUhpdh_x9nxgrFnVg9QFE'
+    BOT_TOKEN = 'YOU_TOKEN'
     bot = SalesBot(BOT_TOKEN)
     bot.run()
